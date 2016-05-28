@@ -4,11 +4,11 @@ Code for [Pluralsight][1] course: [Go Getting Started][2]
 
 ## Table of Content
 
- Course Projects:
+Course Projects:
 
  - [Power Pland Report](projects/power_plant_report.go)
 
- Module 2:
+Module 2:
 
  - [Primitive Data Types](module2/primitive_data_types.go)
  - [Constants](module2/constants.go)
