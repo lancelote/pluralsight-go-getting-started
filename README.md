@@ -6,7 +6,7 @@ Code for [Pluralsight][1] course: [Go Getting Started][2]
 
 Course Projects:
 
- - [Power Pland Report](projects/power_plant_report.go)
+ - [Power Plant Report](projects/power_plant_report.go)
 
 Module 2:
 
