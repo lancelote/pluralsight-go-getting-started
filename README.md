@@ -18,6 +18,7 @@ Module 2:
  Module 3:
 
  - [Branches](module3/branches.go): `if` and `switch`
+ - [Loops](module3/loops.go): `for` loop and iteration over collections
 
  [1]: https://www.pluralsight.com/
  [2]: https://app.pluralsight.com/library/courses/go-getting-started/table-of-contents
