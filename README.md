@@ -25,6 +25,7 @@ Module 4:
 
 - [Functions and Parameters](module4/func_and_params.go)
 - [Return Values](module4/return_vals.go)
+- [Anonymous Functions](module4/lambda.go)
 
   [1]: https://www.pluralsight.com/
   [2]: https://app.pluralsight.com/library/courses/go-getting-started/table-of-contents
