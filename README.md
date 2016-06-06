@@ -27,5 +27,9 @@ Module 4 - Functions:
 - [Return Values](module4/return_vals.go)
 - [Anonymous Functions](module4/lambda.go)
 
+Module 5 - OOP:
+
+- [Structs and Fields](module5/structs_and_fields.go)
+
   [1]: https://www.pluralsight.com/
   [2]: https://app.pluralsight.com/library/courses/go-getting-started/table-of-contents
