@@ -30,6 +30,8 @@ Module 4 - Functions:
 Module 5 - OOP:
 
 - [Structs and Fields](module5/structs_and_fields.go)
+- [Constructor Function](module5/constructor_funcs.go)
+- [Methods](module5/methods.go)
 
   [1]: https://www.pluralsight.com/
   [2]: https://app.pluralsight.com/library/courses/go-getting-started/table-of-contents
