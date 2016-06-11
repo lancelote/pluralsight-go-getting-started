@@ -32,6 +32,7 @@ Module 5 - OOP:
 - [Structs and Fields](module5/structs_and_fields.go)
 - [Constructor Function](module5/constructor_funcs.go)
 - [Methods](module5/methods.go)
+- [Object Composition](module5/object_composition.go): inheritance alternative
 
   [1]: https://www.pluralsight.com/
   [2]: https://app.pluralsight.com/library/courses/go-getting-started/table-of-contents
