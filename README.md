@@ -34,5 +34,9 @@ Module 5 - OOP:
 - [Methods](module5/methods.go)
 - [Object Composition](module5/object_composition.go): inheritance alternative
 
+Module 6 - Asynchronous Programming:
+
+- [Goroutines](module6/goroutines.go)
+
   [1]: https://www.pluralsight.com/
   [2]: https://app.pluralsight.com/library/courses/go-getting-started/table-of-contents
